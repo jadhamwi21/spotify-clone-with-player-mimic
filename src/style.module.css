@@ -1,0 +1,28 @@
+@keyframes navbaranimation {
+	0% {
+		left: 100%;
+		opacity: 0;
+	}
+	50% {
+		left: 25%;
+		opacity: 0;
+	}
+	100% {
+		left: 0%;
+		opacity: 1;
+	}
+}
+@keyframes navbaranimation2 {
+	0% {
+		left: 100%;
+		opacity: 0;
+	}
+	50% {
+		left: 25%;
+		opacity: 0;
+	}
+	100% {
+		left: 0%;
+		opacity: 1;
+	}
+}
